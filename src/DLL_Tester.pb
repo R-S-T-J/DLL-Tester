@@ -115,11 +115,3 @@ Procedure ReadDLL()
 		
 	ForEver
 EndProcedure
-
-; IDE Options = PureBasic 6.02 LTS (Windows - x86)
-; CursorPosition = 95
-; FirstLine = 71
-; Folding = -
-; EnableXP
-; DPIAware
-; Executable = ..\..\..\Desktop\DLL-Tester x86.exe
